@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.BG {
+    background-color: #fb4e71;
+    background-size: cover;
+    height: 30pxvh;
+    width: 37vw;
+}
+
+.BG h1 {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.BG p {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 200px;
+}
+
+.con1 {
+    padding: 10px;
+}
+
+.BG image {
+    background: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img1.png);
+    padding-bottom: 5px;
+}
+
+.container {
+    padding: 10px;
+}
+
+.BG2 {
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 60vh;
+    width: 37vw;
+}
+
+.BG2 h4 {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 19px;
+    padding-top: 15px;
+}
+
+.image2 {
+    margin-left: 15px;
+}
+
+.sbox {
+    background-color: #ffffff;
+    width: 22vw;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 8px;
+}
+
+.sbox h5 {
+    font-size: 17px;
+    padding: 8px 0px 0px 8px;
+}
+
+.sbox p {
+    font-size: 15px;
+    padding: 8px 0px 0px 8px;
+    color: #888888;
+}
+
+.main-card {
+    padding: 15px;
+    margin: 5px;
+}
+
+.image3 {
+    height: 13vh;
+    width: 7vw;
+}
+
+.image4 {
+    height: 13vh;
+    width: 7vw;
+}
+
+.image5 {
+    height: 13vh;
+    width: 7vw;
+}
+
+.p1 p {
+    font-family: Roboto;
+    font-size: 10px;
+    margin: 5px;
+}
+
+.p2 p {
+    font-family: Roboto;
+    font-size: 10px;
+    margin: 5px;
+}
+
+.p3 p {
+    font-family: Roboto;
+    font-size: 10px;
+    text-align: left;
+    margin: 5px;
+}
+
+.btn {
+    margin-right: 120px;
+}
+
+.p1 {
+    
+    margin: 5px;
+}
+
+.p2 {
+    
+    margin: 5px;
+}
+
+.p3 {
+    
+    
+    margin: 5px;
+}
